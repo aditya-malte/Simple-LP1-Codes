@@ -4,7 +4,8 @@ This is a repo that provides simple versions of LP1 codes. Codes will be uploade
 
 Left:
 1) mpi Breadth First search
-2) Alpha Beta pruning
-3) Hadoop
+2) OpenMP Merge sort
+3) Alpha Beta pruning
+4) Hadoop
 
 (Some other codes are very trivial to implement and are almost repetitve, hence left out)
